@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "dotnet", "csharp" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [ "steamdeck", "apple", "gaming", "magicthegathering", "mtg", "valve", "ayaneo", "rogally", "handheld", "nintendoswitch", "tech", "seo", "blogger", "iphone"],
+    "Instances": [ "hachyderm.io", "mastodon.social", "mas.to", "techhub.social", "toot.io", "mstdn.plus", "flipboard.social"]
 }
